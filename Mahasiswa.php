@@ -10,9 +10,15 @@ class Mahasiswa
 		return true;
 	}
 
-	public hapusMhs(){
+	public function ubah(){
 		return true;
 	}
+
+
+
+
+
+	
 }
 
 
